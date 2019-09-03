@@ -1,2 +1,2 @@
 # PCSE
-Contiene programa, aplicacion, presentacion y video
+Contiene programa, aplicación, presentación y video
